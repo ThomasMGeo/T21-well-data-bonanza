@@ -1,6 +1,7 @@
 # T21-well-data-bonanza
 Software Underground Transform 2021 Talk on geothermal production data and well data. All doable using Google Colab. 
 
+<span style="color:blue"> This is going to be a viz bonanza! </span>.
 
 This is for [Transform 2021](https://softwareunderground.org/events/transform-2021), a fully online geoscience conference. The notebooks will be covering basic python syntax, packages, and basic subsurface workflows using pandas, numpy, matplotlib, [seaborn](https://seaborn.pydata.org/), and [welly](https://github.com/agile-geoscience/welly).
 
