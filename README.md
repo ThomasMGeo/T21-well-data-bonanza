@@ -17,8 +17,13 @@ Instructions/Installation for use with [Colab](https://colab.research.google.com
 ## If you are an Anaconda/python pro, these notebooks should work fine!
 
 Requirements:
+
 welly
+
 pandas
+
 matplotlib
-seaborne
+
+seaborn
+
 glob
