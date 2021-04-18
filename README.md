@@ -15,3 +15,10 @@ Instructions/Installation for use with [Colab](https://colab.research.google.com
 6. Run and enjoy!
 
 ## If you are an Anaconda/python pro, these notebooks should work fine!
+
+Requirements:
+welly
+pandas
+matplotlib
+seaborne
+glob
